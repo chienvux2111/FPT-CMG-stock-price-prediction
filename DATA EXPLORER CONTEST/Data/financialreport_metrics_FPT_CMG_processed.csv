@@ -1,0 +1,275 @@
+﻿Indicator,StockID,Q1_2023,Q1_2024,Q2_2023,Q2_2024,Q3_2023,Q3_2024,Q4_2023,Q4_2024
+"Beta
+Lần",CMG,1.02,0.93,1.04,1.18,0.94,1.19,1.01,
+"Beta
+Lần",FPT,0.78,0.76,0.74,0.80,0.75,0.81,0.77,0.96
+"Chi phí bán hàng/Doanh thu thuần
+%",CMG,5.61,6.70,6.34,6.01,5.75,5.82,8.53,
+"Chi phí bán hàng/Doanh thu thuần
+%",FPT,9.43,9.71,9.92,10.42,10.42,9.83,8.96,9.57
+"Chi phí lãi vay/Doanh thu thuần
+%",CMG,1.16,1.02,1.27,0.93,1.17,1.05,0.97,
+"Chi phí lãi vay/Doanh thu thuần
+%",FPT,1.27,0.98,1.70,0.98,1.93,0.81,1.41,0.77
+"Chi phí quản lý doanh nghiệp/Doanh thu thuần
+%",CMG,6.04,6.52,7.07,5.78,6.05,5.43,8.16,
+"Chi phí quản lý doanh nghiệp/Doanh thu thuần
+%",FPT,13.63,12.94,11.82,11.26,12.89,11.37,13.48,9.86
+"Chỉ số giá thị trường trên doanh thu thuần (P/S)
+Lần",CMG,3.39,4.23,3.89,5.32,3.40,4.20,5.01,
+"Chỉ số giá thị trường trên doanh thu thuần (P/S)
+Lần",FPT,7.43,10.50,7.61,12.50,8.56,12.35,8.31,12.74
+"Chỉ số giá thị trường trên giá trị sổ sách (P/B)
+Lần",CMG,1.89,2.21,2.15,3.37,2.20,2.70,2.47,
+"Chỉ số giá thị trường trên giá trị sổ sách (P/B)
+Lần",FPT,3.21,4.66,3.32,5.81,4.15,5.55,4.08,6.27
+"Chỉ số giá thị trường trên thu nhập (P/E)
+Lần",CMG,15.30,19.81,20.57,32.78,21.63,29.25,20.28,
+"Chỉ số giá thị trường trên thu nhập (P/E)
+Lần",FPT,15.04,21.02,16.26,23.23,17.31,23.80,17.55,26.77
+"Dòng tiền từ HĐKD trên Lợi nhuận thuần từ HĐKD
+%",CMG,23.07,69.50,,,,,,
+"Dòng tiền từ HĐKD trên Lợi nhuận thuần từ HĐKD
+%",FPT,-68.04,-26.14,,,,,,
+"Dòng tiền từ HĐKD trên Tổng tài sản
+%",CMG,0.36,1.09,,,,,,
+"Dòng tiền từ HĐKD trên Tổng tài sản
+%",FPT,-2.81,-1.06,,,,,,
+"Dòng tiền từ HĐKD trên Vốn chủ sở hữu
+%",CMG,0.79,2.31,,,,,,
+"Dòng tiền từ HĐKD trên Vốn chủ sở hữu
+%",FPT,-5.27,-2.07,,,,,,
+"Dòng tiền từ HĐKD trên mỗi cổ phần (CPS)
+VNĐ",CMG,166,418,,,,,,
+"Dòng tiền từ HĐKD trên mỗi cổ phần (CPS)
+VNĐ",FPT,"-1,301",-518,,,,,,
+"Giá trị doanh nghiệp trên lợi nhuận trước thuế và lãi vay (EV/EBIT)
+Lần",CMG,61.41,72.41,79.76,124.75,37.74,57.88,107.39,
+"Giá trị doanh nghiệp trên lợi nhuận trước thuế và lãi vay (EV/EBIT)
+Lần",FPT,44.22,61.02,46.38,73.04,49.94,68.75,50.26,76.23
+"Giá trị sổ sách của cổ phiếu (BVPS)
+VNĐ",CMG,"21,056","18,106","21,514","18,091","21,740","18,833","17,585",
+"Giá trị sổ sách của cổ phiếu (BVPS)
+VNĐ",FPT,"24,665","24,980","25,891","22,446","22,365","24,213","23,580","24,332"
+"Giá vốn hàng bán/Doanh thu thuần
+%",CMG,82.80,81.07,82.77,84.99,80.79,80.63,79.81,
+"Giá vốn hàng bán/Doanh thu thuần
+%",FPT,60.90,60.90,62.88,62.93,60.06,61.27,61.66,63.20
+"Hàng tồn kho/Tài sản ngắn hạn
+%",CMG,8.81,5.28,7.17,4.86,6.44,5.37,3.61,
+"Hàng tồn kho/Tài sản ngắn hạn
+%",FPT,7.06,4.93,5.23,4.61,4.45,4.83,4.34,4.04
+"Khả năng chi trả nợ ngắn hạn từ dòng tiền HĐKD
+%",CMG,0.84,2.72,,,,,,
+"Khả năng chi trả nợ ngắn hạn từ dòng tiền HĐKD
+%",FPT,-6.19,-2.26,,,,,,
+"Khả năng chi trả nợ ngắn hạn từ lưu chuyển tiền thuần trong kỳ
+%",CMG,-3.87,-1.22,,,,,,
+"Khả năng chi trả nợ ngắn hạn từ lưu chuyển tiền thuần trong kỳ
+%",FPT,-13.69,-6.55,,,,,,
+"Khả năng thanh toán lãi vay
+Lần",CMG,6.35,7.18,4.88,5.37,8.02,8.20,5.79,
+"Khả năng thanh toán lãi vay
+Lần",FPT,15.33,19.38,11.44,18.75,10.14,23.58,12.78,22.95
+"Khả năng thanh toán nợ từ dòng tiền HĐKD
+%",CMG,0.66,2.06,,,,,,
+"Khả năng thanh toán nợ từ dòng tiền HĐKD
+%",FPT,-6.02,-2.17,,,,,,
+"Phải thu ngắn hạn/Tài sản ngắn hạn
+%",CMG,53.37,44.80,49.87,47.96,45.74,42.90,42.95,
+"Phải thu ngắn hạn/Tài sản ngắn hạn
+%",FPT,31.48,26.69,23.24,26.93,24.84,27.87,25.97,25.02
+"Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS)
+VNĐ",CMG,"2,608","2,016","2,246","1,861","2,210","1,737","2,145",
+"Thu nhập trên mỗi cổ phần của 4 quý gần nhất (EPS)
+VNĐ",FPT,"5,258","5,541","5,289","5,618","5,362","5,652","5,476","5,697"
+"Thời gian thu tiền khách hàng bình quân
+Ngày",CMG,308.32,277.12,318.48,264.43,266.42,256.71,312.52,
+"Thời gian thu tiền khách hàng bình quân
+Ngày",FPT,248.34,238.77,233.27,235.86,225.00,242.25,223.26,221.15
+"Thời gian trả tiền khách hàng bình quân
+Ngày",CMG,216.16,213.06,211.22,182.06,166.72,177.81,214.77,
+"Thời gian trả tiền khách hàng bình quân
+Ngày",FPT,149.65,122.97,122.68,121.64,115.62,118.21,104.54,123.33
+"Thời gian tồn kho bình quân
+Ngày",CMG,64.11,38.48,64.86,37.53,51.03,39.82,49.08,
+"Thời gian tồn kho bình quân
+Ngày",FPT,103.93,73.36,95.63,71.14,83.59,73.84,67.51,63.87
+"Tiền/Tài sản ngắn hạn
+%",CMG,7.83,13.24,11.68,13.54,16.55,16.67,16.19,
+"Tiền/Tài sản ngắn hạn
+%",FPT,11.14,16.83,16.09,16.75,18.10,18.63,22.55,20.48
+"Tài sản cố định hữu hình/Tài sản cố định
+%",CMG,80.78,80.97,80.69,81.62,80.77,81.80,81.18,
+"Tài sản cố định hữu hình/Tài sản cố định
+%",FPT,89.40,89.02,90.04,88.10,91.07,89.32,90.76,86.24
+"Tài sản cố định/Tổng tài sản
+%",CMG,33.44,31.39,32.95,29.82,30.97,29.01,34.21,
+"Tài sản cố định/Tổng tài sản
+%",FPT,23.62,22.27,20.25,22.00,21.35,21.37,22.62,20.61
+"Tài sản dài hạn/Tổng tài sản
+%",CMG,53.62,50.88,51.55,48.51,49.47,48.65,53.09,
+"Tài sản dài hạn/Tổng tài sản
+%",FPT,41.81,39.25,36.00,37.50,36.35,36.96,39.15,36.85
+"Tài sản ngắn hạn khác/Tài sản ngắn hạn
+%",CMG,4.24,4.24,3.44,2.76,2.91,2.69,3.40,
+"Tài sản ngắn hạn khác/Tài sản ngắn hạn
+%",FPT,3.37,3.17,2.67,2.93,2.99,3.03,3.27,2.55
+"Tài sản ngắn hạn/Tổng tài sản
+%",CMG,46.38,49.12,48.45,51.49,50.53,51.35,46.91,
+"Tài sản ngắn hạn/Tổng tài sản
+%",FPT,58.19,60.75,64.00,62.50,63.65,63.04,60.85,63.15
+"Tài sản thuê tài chính/Tài sản cố định
+%",FPT,0.24,0.03,0.20,0.02,0.02,0.02,0.03,0.01
+"Tài sản vô hình/Tài sản cố định
+%",CMG,19.22,19.03,19.31,18.38,19.23,18.20,18.82,
+"Tài sản vô hình/Tài sản cố định
+%",FPT,10.36,10.95,9.75,11.88,8.91,10.67,9.21,13.74
+"Tăng trưởng doanh thu thuần
+%",CMG,3.64,1.24,-2.49,22.07,-8.05,8.81,-9.94,
+"Tăng trưởng doanh thu thuần
+%",FPT,20.05,20.64,23.66,22.11,23.44,15.56,12.64,19.86
+"Tăng trưởng lợi nhuận gộp
+%",CMG,-5.39,11.43,-14.69,6.33,1.74,9.68,-10.67,
+"Tăng trưởng lợi nhuận gộp
+%",FPT,15.55,20.64,15.41,21.96,26.08,12.05,7.45,15.04
+"Tăng trưởng lợi nhuận sau thuế của CĐ công ty mẹ
+%",CMG,5.03,-0.82,-25.05,-10.15,16.55,-2.70,-2.04,
+"Tăng trưởng lợi nhuận sau thuế của CĐ công ty mẹ
+%",FPT,20.56,20.39,20.66,24.16,19.65,20.09,27.88,20.75
+"Tăng trưởng lợi nhuận trước thuế
+%",CMG,3.30,2.64,-24.12,0.55,30.93,0.42,27.21,
+"Tăng trưởng lợi nhuận trước thuế
+%",FPT,19.20,19.47,19.39,20.11,19.78,19.74,22.43,21.54
+"Tăng trưởng nợ dài hạn
+%",CMG,-1.21,15.82,2.85,18.01,-5.77,6.59,6.99,
+"Tăng trưởng nợ dài hạn
+%",FPT,-74.58,98.66,-74.11,87.30,-72.34,90.03,-60.09,102.40
+"Tăng trưởng nợ phải trả
+%",CMG,4.79,1.58,-0.21,14.65,4.12,3.21,2.11,
+"Tăng trưởng nợ phải trả
+%",FPT,-27.46,27.95,-2.80,1.80,8.48,-4.42,15.45,19.22
+"Tăng trưởng tổng tài sản
+%",CMG,8.21,4.73,4.04,10.78,5.15,6.05,4.22,
+"Tăng trưởng tổng tài sản
+%",FPT,-8.74,22.24,7.57,7.87,12.67,8.80,16.78,19.37
+"Tăng trưởng vốn chủ sở hữu
+%",CMG,12.62,8.50,9.38,6.34,6.43,9.54,6.59,
+"Tăng trưởng vốn chủ sở hữu
+%",FPT,17.87,17.24,22.14,14.65,18.08,24.50,18.17,19.53
+"Tăng trưởng vốn điều lệ
+%",CMG,38.16,26.46,0.40,26.46,26.68,0.19,26.18,
+"Tăng trưởng vốn điều lệ
+%",FPT,20.88,15.76,0.67,32.25,15.76,15.00,15.24,15.84
+"Tỷ lệ lãi EBIT
+%",CMG,7.35,7.29,6.21,5.00,9.40,8.65,5.65,
+"Tỷ lệ lãi EBIT
+%",FPT,19.42,18.96,19.47,18.46,19.58,19.10,17.98,17.57
+"Tỷ lệ lãi EBITDA
+%",CMG,12.32,12.70,10.23,9.12,13.56,12.64,11.35,
+"Tỷ lệ lãi EBITDA
+%",FPT,23.79,23.34,23.27,21.93,21.64,22.24,20.83,20.45
+"Tỷ suất cổ tức
+%",CMG,0.00,0.02,0.00,0.01,0.00,0.01,0.01,
+"Tỷ suất cổ tức
+%",FPT,0.03,0.02,0.01,0.02,0.02,0.01,0.02,0.01
+"Tỷ suất lợi nhuận gộp biên
+%",CMG,17.20,18.93,17.23,15.01,19.21,19.37,20.19,
+"Tỷ suất lợi nhuận gộp biên
+%",FPT,39.10,39.10,37.12,37.07,39.94,38.73,38.34,36.80
+"Tỷ suất lợi nhuận trên vốn chủ sở hữu bình quân (ROEA)
+%",CMG,2.67,2.45,2.12,1.77,3.99,3.60,1.31,
+"Tỷ suất lợi nhuận trên vốn chủ sở hữu bình quân (ROEA)
+%",FPT,5.70,5.83,5.42,5.81,6.10,6.13,5.92,5.87
+"Tỷ suất sinh lợi trên doanh thu thuần
+%",CMG,5.46,5.42,4.52,3.56,7.24,6.56,3.66,
+"Tỷ suất sinh lợi trên doanh thu thuần
+%",FPT,15.49,15.33,14.86,14.98,15.08,15.59,13.96,14.16
+"Tỷ suất sinh lợi trên tổng tài sản bình quân (ROAA)
+%",CMG,1.24,1.18,0.98,0.81,1.83,1.64,0.61,
+"Tỷ suất sinh lợi trên tổng tài sản bình quân (ROAA)
+%",FPT,2.92,2.94,2.71,2.94,2.84,3.14,2.82,2.99
+"Tỷ suất sinh lợi trên vốn dài hạn bình quân (ROCE)
+%",CMG,3.29,3.05,2.75,2.47,4.80,4.41,2.22,
+"Tỷ suất sinh lợi trên vốn dài hạn bình quân (ROCE)
+%",FPT,8.28,8.39,8.54,8.40,9.25,8.61,8.85,8.38
+"Tỷ số Nợ ngắn hạn trên Tổng nợ phải trả
+%",CMG,78.75,75.77,76.48,75.80,77.28,76.53,76.32,
+"Tỷ số Nợ ngắn hạn trên Tổng nợ phải trả
+%",FPT,97.31,95.83,98.00,96.32,98.05,96.13,97.66,96.03
+"Tỷ số Nợ ngắn hạn trên Vốn chủ sở hữu
+%",CMG,94.44,85.07,87.53,93.53,94.56,88.23,81.78,
+"Tỷ số Nợ ngắn hạn trên Vốn chủ sở hữu
+%",FPT,85.16,91.52,109.55,95.61,116.36,87.58,99.07,97.17
+"Tỷ số Nợ trên Tổng tài sản
+%",CMG,54.53,52.89,53.37,55.24,55.03,53.55,51.73,
+"Tỷ số Nợ trên Tổng tài sản
+%",FPT,46.67,48.85,52.78,49.81,54.27,47.67,50.36,50.29
+"Tỷ số Nợ trên Vốn chủ sở hữu
+%",CMG,119.93,112.27,114.45,123.40,122.36,115.29,107.15,
+"Tỷ số Nợ trên Vốn chủ sở hữu
+%",FPT,87.51,95.50,111.78,99.26,118.67,91.11,101.44,101.18
+"Tỷ số Nợ vay trên Tổng tài sản
+%",CMG,22.56,22.32,23.47,23.88,13.03,23.14,22.56,
+"Tỷ số Nợ vay trên Tổng tài sản
+%",FPT,24.35,26.62,32.28,25.26,30.77,21.67,23.28,20.76
+"Tỷ số Nợ vay trên Vốn chủ sở hữu
+%",CMG,49.62,47.37,50.33,53.34,28.98,49.82,46.73,
+"Tỷ số Nợ vay trên Vốn chủ sở hữu
+%",FPT,45.66,52.04,68.36,50.34,67.28,41.42,46.90,41.76
+"Tỷ số Vốn chủ sở hữu trên Tổng tài sản
+%",CMG,45.47,47.11,46.63,44.76,44.97,46.45,48.27,
+"Tỷ số Vốn chủ sở hữu trên Tổng tài sản
+%",FPT,53.33,51.15,47.22,50.18,45.73,52.32,49.64,49.70
+"Tỷ số dòng tiền HĐKD trên doanh thu thuần
+%",CMG,1.42,4.43,,,,,,
+"Tỷ số dòng tiền HĐKD trên doanh thu thuần
+%",FPT,-12.21,-4.67,,,,,,
+"Tỷ số thanh toán bằng tiền mặt
+Lần",CMG,0.08,0.16,0.14,0.17,0.20,0.21,0.19,
+"Tỷ số thanh toán bằng tiền mặt
+Lần",FPT,0.14,0.22,0.20,0.22,0.22,0.26,0.28,0.27
+"Tỷ số thanh toán hiện hành (ngắn hạn)
+Lần",CMG,1.08,1.23,1.19,1.23,1.19,1.25,1.19,
+"Tỷ số thanh toán hiện hành (ngắn hạn)
+Lần",FPT,1.28,1.30,1.24,1.30,1.20,1.38,1.24,1.31
+"Tỷ số thanh toán nhanh
+Lần",CMG,0.99,1.16,1.10,1.17,1.11,1.19,1.15,
+"Tỷ số thanh toán nhanh
+Lần",FPT,1.19,1.23,1.17,1.24,1.14,1.31,1.18,1.25
+"Tỷ số thanh toán nhanh (Đã loại trừ HTK, Phải thu ngắn hạn - Tham khảo)
+Lần",CMG,0.36,0.56,0.47,0.55,0.53,0.61,0.59,
+"Tỷ số thanh toán nhanh (Đã loại trừ HTK, Phải thu ngắn hạn - Tham khảo)
+Lần",FPT,0.74,0.85,0.85,0.85,0.81,0.88,0.82,0.89
+"Vòng quay hàng tồn kho
+Vòng",CMG,5.69,9.49,5.63,9.72,7.15,9.17,7.44,
+"Vòng quay hàng tồn kho
+Vòng",FPT,3.51,4.98,3.82,5.13,4.37,4.94,5.41,5.71
+"Vòng quay phải thu khách hàng
+Vòng",CMG,1.18,1.32,1.15,1.38,1.37,1.42,1.17,
+"Vòng quay phải thu khách hàng
+Vòng",FPT,1.47,1.53,1.56,1.55,1.62,1.51,1.63,1.65
+"Vòng quay phải trả nhà cung cấp
+Vòng",CMG,1.69,1.71,1.73,2.00,2.19,2.05,1.70,
+"Vòng quay phải trả nhà cung cấp
+Vòng",FPT,2.44,2.97,2.98,3.00,3.16,3.09,3.49,2.96
+"Vòng quay tài sản cố định (Hiệu suất sử dụng tài sản cố định)
+Vòng",CMG,0.75,0.77,0.77,0.95,0.93,1.02,0.71,
+"Vòng quay tài sản cố định (Hiệu suất sử dụng tài sản cố định)
+Vòng",FPT,0.97,1.03,1.03,1.08,1.08,1.10,1.09,1.20
+"Vòng quay tổng tài sản (Hiệu suất sử dụng toàn bộ tài sản)
+Vòng",CMG,0.26,0.25,0.26,0.29,0.30,0.30,0.23,
+"Vòng quay tổng tài sản (Hiệu suất sử dụng toàn bộ tài sản)
+Vòng",FPT,0.23,0.23,0.22,0.24,0.22,0.24,0.24,0.25
+"Vòng quay vốn chủ sở hữu
+Vòng",CMG,0.56,0.53,0.56,0.63,0.65,0.66,0.50,
+"Vòng quay vốn chủ sở hữu
+Vòng",FPT,0.45,0.46,0.45,0.47,0.48,0.47,0.50,0.49
+"XDCBDD/Tài sản cố định
+%",CMG,33.49,37.38,35.57,39.47,37.19,43.64,33.44,
+"XDCBDD/Tài sản cố định
+%",FPT,10.35,10.35,14.33,10.27,10.02,10.21,9.64,17.25
+"Đầu tư tài chính ngắn hạn/Tài sản ngắn hạn
+%",CMG,25.75,32.45,27.84,30.88,28.37,32.38,33.84,
+"Đầu tư tài chính ngắn hạn/Tài sản ngắn hạn
+%",FPT,46.95,48.38,52.77,48.79,49.63,45.63,43.87,47.91

@@ -1,0 +1,11 @@
+﻿No,StockID,Exchange,Ex-Dividend Date,Record Date,Execution Date,Event Content,Event Type
+1,FPT,HOSE,02/12/2024,03/12/2024,13/12/2024,"Trả cổ tức đợt 1/2024 bằng tiền, 1,000 đồng/CP",Trả cổ tức bằng tiền mặt
+2,FPT,HOSE,12/06/2024,13/06/2024,20/06/2024,"Trả cổ tức đợt 2/2023 bằng tiền, 1,000 đồng/CP",Trả cổ tức bằng tiền mặt
+3,FPT,HOSE,12/06/2024,13/06/2024,,"Thưởng cổ phiếu, tỷ lệ 20:3",Thưởng cổ phiếu
+4,FPT,HOSE,24/08/2023,25/08/2023,12/09/2023,"Trả cổ tức đợt 1/2023 bằng tiền, 1,000 đồng/CP",Trả cổ tức bằng tiền mặt
+5,FPT,HOSE,05/07/2023,06/07/2023,13/07/2023,"Trả cổ tức đợt 2/2022 bằng tiền, 1,000 đồng/CP",Trả cổ tức bằng tiền mặt
+6,FPT,HOSE,05/07/2023,06/07/2023,,"Trả cổ tức năm 2022 bằng cổ phiếu, tỷ lệ 20:3",Trả cổ tức bằng cổ phiếu
+1,CMG,HOSE,30/12/2024,31/12/2024,,"Trả cổ tức năm 2023 bằng cổ phiếu, tỷ lệ 100:11",Trả cổ tức bằng cổ phiếu
+2,CMG,HOSE,05/12/2023,06/12/2023,,"Trả cổ tức năm 2022 bằng cổ phiếu, tỷ lệ 100:6",Trả cổ tức bằng cổ phiếu
+3,CMG,HOSE,05/12/2023,06/12/2023,28/12/2023,"Trả cổ tức năm 2022 bằng tiền, 600 đồng/CP",Trả cổ tức bằng tiền mặt
+4,CMG,HOSE,05/12/2023,06/12/2023,,"Thưởng cổ phiếu, tỷ lệ 1000:202",Thưởng cổ phiếu

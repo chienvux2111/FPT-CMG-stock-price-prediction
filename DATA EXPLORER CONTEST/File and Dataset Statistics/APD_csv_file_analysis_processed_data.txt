@@ -1,0 +1,31 @@
+File: 2.1.5 (live & his) industries_performance_processed.csv
+File: 2.1.6 (live & his) industries_cashflow_processed.csv
+File: 2.2.1 (live & his) detail_industry_performance_processed.csv
+File: 2.2.2 (live & his) detail_industry_cashflow_processed.csv
+File: 3.2 (live & his) news_dividend_issue (FPT_CMG)_processed.csv
+File: 3.3 (live & his) news_shareholder_meeting (FPT_CMG)_processed.csv
+File: 3.4 (live & his) news_internal_transactions (FPT_CMG)_processed.csv
+File: 4.0.3 (T-1) all_stock_prices_statistics_processed.csv
+File: 4.0.4 (T-1) all_stock_orders_statistics_processed.csv
+File: 4.0.5 (T-1) foreigner_matched_order_trading_statistics_processed.csv
+File: 4.2.2 (his) CMG_financial_data_processed.csv
+File: 4.2.2 (his) FPT_financial_data_processed.csv
+File: 4.2.3 (TARGET) (live & his) CMG_detail_transactions_processed.csv
+File: 4.2.3 (TARGET) (live & his) FPT_detail_transactions_processed.csv
+File: 4.2.4 (live & his) CMG_foreign_detail_transactions_processed.csv
+File: 4.2.4 (live & his) FPT_foreign_detail_transactions_processed.csv
+File: 4.2.5 (his) CMG_pricefluctuation_avgtransamount_processed.csv
+File: 4.2.5 (his) FPT_pricefluctuation_avgtransamount_processed.csv
+File: 4.2.6 (his) CMG_nearest_period_trans_statistics_processed.csv
+File: 4.2.6 (his) FPT_nearest_period_trans_statistics_processed.csv
+File: 4.2.7 (his) CMG_full_period_trans_statistics_processed.csv
+File: 4.2.7 (his) FPT_full_period_trans_statistics_processed.csv
+File: 6.1 (his) financialreport_balancesheet_FPT_CMG_processed.csv
+File: 6.2 (his) financialreport_metrics_FPT_CMG_processed.csv
+File: 6.4 (his) financialreport_balancesheet_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed.csv
+File: 6.4 (his) financialreport_balancesheet_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed.csv
+File: 6.4 (his) financialreport_balancesheet_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed.csv
+File: 6.5 (his) financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed.csv
+File: 6.5 (his) financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed.csv
+File: 6.5 (his) financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed.csv
+File: CafeF_News_FPT_CMG.xlsx 

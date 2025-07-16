@@ -1,0 +1,335 @@
+feature,importance
+price_Close_ma_3_days,0.8175091419258781
+price_Close_ma_7_days,0.09327112672422211
+CMG_financial_data_processed_P/E cơ bản (daily)_ma_7_days,0.023932934115595914
+CMG_financial_data_processed_EPS 4 quý (daily)_ma_3_days,0.008559053154609447
+CMG_financial_data_processed_P/E cơ bản (daily),0.006103293180091626
+CMG_financial_data_processed_EPS 4 quý (daily),0.006034261630224269
+CMG_financial_data_processed_P/E cơ bản (daily)_lag_1,0.005302753979644357
+CMG_financial_data_processed_P/E cơ bản (daily)_lag_2,0.004629496013031303
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_EQ_Turn (daily)_ma_7_days,0.00286372054079613
+CMG_financial_data_processed_EPS 4 quý (daily)_lag_1,0.0027896565139577936
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_ST/TD (daily)_ma_7_days,0.0023435467665415617
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_GVHB/DTT (daily)_ma_7_days,0.0016137385422630296
+CMG_financial_data_processed_P/E cơ bản (daily)_lag_3,0.0014577627875853694
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_P/E (daily)_ma_7_days,0.0014043082565166705
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_EQ_Turn (daily)_lag_5,0.0010772756383687586
+CMG_financial_data_processed_EPS 4 quý (daily)_lag_2,0.0010347208254751449
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_GROW_LNST (daily)_ma_7_days,0.0009925875203116929
+CMG_financial_data_processed_ROAA (daily),0.0009500920844333304
+CMG_financial_data_processed_ROS (daily),0.0009409718208526834
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_CR (daily)_lag_1,0.0008598322588879684
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_TA_Turn (daily),0.0008422634998219475
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_P/B (daily)_lag_4,0.0007903716145105228
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_PT (daily)_ma_3_days,0.0007428860825380874
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_PT (daily)_ma_7_days,0.0007303463145258197
+price_Volume_ma_3_days,0.000730155434577773
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_GROW_TTS (daily),0.0006402132869800386
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GROW_TTS (daily),0.0006200261662216969
+CMG_financial_data_processed_EPS 4 quý (daily)_lag_3,0.000616522951125751
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_GROW_VDL (daily)_ma_3_days,0.0005662628713102688
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_DIO (daily),0.0005382992654620677
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_CPQLDN/DTT (daily)_lag_1,0.0005127876851142255
+CMG_financial_data_processed_EPS 4 quý (daily)_lag_5,0.00046846844437228754
+CMG_financial_data_processed_P/E cơ bản (daily)_ma_3_days,0.00046088425547978734
+CMG_financial_data_processed_EPS 4 quý (daily)_lag_4,0.00045624430589609596
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GROW_TTS (daily)_lag_7,0.00044238197067265135
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GROW_TTS (daily)_lag_4,0.0003512686931396507
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_GROW_TTS (daily)_ma_3_days,0.00028836160409961874
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_P/B (daily)_ma_7_days,0.00027913979890431697
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GROW_LNST (daily)_ma_3_days,0.00024393061371973267
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_GROW_TTS (daily)_lag_3,0.00022018153378812653
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GROW_LNST (daily)_lag_7,0.0002198658346201225
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_IT (daily)_lag_5,0.00019666444631389102
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GROW_TTS (daily)_lag_6,0.00016881732008162964
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_CASH/TSNH (daily)_ma_7_days,0.00016613000932851592
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GROW_TTS (daily)_ma_3_days,0.0001657364668111849
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_GROW_TTS (daily)_lag_5,0.0001526994420895067
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GROW_LNTT (daily)_lag_7,0.00014788432497840598
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_EQ_Turn (daily)_lag_3,0.00014773303794516222
+price_Change %,0.00014462899727717653
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_CASH/TSNH (daily),0.00014345463368085052
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_CashR (daily),0.00013648589760927252
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_CPLV/DTT (daily)_lag_4,0.0001323238268095187
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_CASH/TSNH (daily)_ma_3_days,0.0001316378926812097
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_Debt/E (daily)_lag_6,0.00012438084502334416
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_IT (daily)_lag_4,0.00011735267860789101
+price_Volume_ma_7_days,0.00011436177669278256
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GROW_LNST (daily)_lag_5,0.00011051836951802988
+price_Change %_ma_7_days,0.00010960608492216081
+CMG_financial_data_processed_EPS 4 quý (daily)_ma_7_days,0.0001096044581799231
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_P/E (daily)_ma_3_days,9.807588817098844e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_IT (daily),9.464293475908545e-05
+price_Change %_ma_3_days,9.252969899258064e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_TSDLH/TTS (daily)_lag_3,8.455528418430453e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_RT (daily)_ma_3_days,8.247068626437617e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GROW_VCSH (daily)_ma_7_days,7.932125290524279e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_FA_Turn (daily)_lag_2,7.11917280096604e-05
+CMG_financial_data_processed_ROAA (daily)_ma_3_days,6.507504807287996e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_GVHB/DTT (daily)_ma_7_days,6.419305922001713e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_CASH/TSNH (daily)_lag_4,6.40248743612574e-05
+CMG_financial_data_processed_ROAA (daily)_lag_4,6.161559669231441e-05
+CMG_financial_data_processed_ROAA (daily)_lag_1,5.584155241398766e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_ROCE (daily),4.66448794612407e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_P/E (daily)_lag_2,4.555779161705113e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_CashR (daily)_lag_3,4.347692951922089e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_EQ_Turn (daily)_lag_4,4.328424722007807e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_KTTL (daily)_lag_6,3.8205528255360324e-05
+price_Volume,3.7946021985596055e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_CASH/TSNH (daily)_lag_2,3.6614319582077096e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_PT (daily)_lag_1,3.639893085248414e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_PT (daily),3.587750321969808e-05
+Prob_up,3.362109074462649e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_GROW_TTS (daily),3.347248331722514e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_TSTC/TSCĐ (daily)_lag_4,3.1755708394760335e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_FA_Turn (daily),2.835237254798908e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_ROCE (daily),2.8070792933031325e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_CPLV/DTT (daily)_lag_2,2.6901394006776514e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_TSVH/TSCĐ (daily)_lag_5,2.6215213607854233e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_P/B (daily),2.5742225460857197e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_ROE (daily),2.495966799129262e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_P/S (daily),2.4681265065394922e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_FA_Turn (daily)_lag_1,2.4623830294148293e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_KTTL (daily)_lag_6,2.4330072469466692e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_PT (daily)_lag_4,2.369166650878633e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_P/E (daily)_lag_5,2.3109241736890422e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_PT (daily)_lag_3,2.2789447689036513e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_KTTL (daily),2.2764678564736116e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_D/A (daily)_lag_3,2.2021590617332745e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_DPO (daily)_lag_6,2.1431479979420316e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_HTK/TSNH (daily)_lag_4,2.1317218788770774e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GVHB/DTT (daily)_ma_3_days,2.1289407376542058e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_KTTL (daily)_lag_5,2.061816702358695e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_GROW_LNST (daily)_lag_7,2.0471948197098547e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_RT (daily),1.8460910212050587e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_CashR (daily)_lag_3,1.8013961427766777e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_TSTC/TSCĐ (daily),1.7096783947983613e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_PT (daily)_lag_2,1.6749797511234008e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_CPQLDN/DTT (daily)_lag_4,1.6495722128174356e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_GROW_LNTT (daily)_lag_2,1.5905076199302393e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_EPS (daily),1.537999145873744e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_TSCĐ/TTS (daily)_lag_4,1.5157318010232924e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_FA_Turn (daily),1.4938511178543193e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_EQ_Turn (daily),1.4063199299584512e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_CPLV/DTT (daily),1.3567413951909054e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_CPLV/DTT (daily)_lag_5,1.3174089009519881e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_NPT (daily),1.277689404380516e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_EBITM (daily),1.25532089451631e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_GROW_LNTT (daily),1.2544282900839282e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_KTTL (daily)_lag_7,1.2464445536068852e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_GROW_LNST (daily)_lag_3,1.2398563577284496e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_GROW_VCSH (daily),1.2334605551528833e-05
+CMG_financial_data_processed_ROEA (daily)_ma_3_days,1.2131001552903107e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_KTTL (daily)_ma_3_days,1.153441308677401e-05
+CMG_financial_data_processed_P/E cơ bản (daily)_lag_7,1.1491880678890734e-05
+CMG_financial_data_processed_ROAA (daily)_lag_2,1.1423102960920631e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_TSDLH/TTS (daily),1.1422921211256859e-05
+CMG_financial_data_processed_EPS 4 quý (daily)_lag_7,1.1352703204788311e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_TA_Turn (daily)_lag_3,1.1041347375987169e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_GP% (daily)_lag_1,1.0980809069881915e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_CWIP/FA (daily)_lag_6,1.0911187625150818e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_EQ_Turn (daily),1.0562145373251009e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_ROS (daily)_lag_3,1.0393599716105032e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_CPLV/DTT (daily)_lag_7,1.0376158147948025e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_ROCE (daily)_lag_2,1.0172572533055899e-05
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_P/E (daily)_lag_3,9.765119488276733e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_NDH (daily),9.723192428422102e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_Debt/E (daily)_lag_4,9.704655935471868e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_P/S (daily)_lag_7,9.698409998799281e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_Debt/TTS (daily),9.52130580383094e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_ROE (daily)_lag_1,9.028645009193259e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_P/B (daily)_lag_5,8.885254519038322e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_P/E (daily),8.795784742786254e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_D/E (daily)_lag_3,8.634501013660057e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_P/B (daily)_lag_3,8.58719137112734e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_ROA (daily)_lag_6,8.439247416689614e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_CASH/TSNH (daily),8.420214434435873e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GROW_TTS (daily)_lag_3,8.328040592639819e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_PT (daily)_ma_3_days,8.292167980368527e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_FI/TSNH (daily),8.239614349768252e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_ROCE (daily)_lag_2,8.131837888939254e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_FA_Turn (daily)_lag_3,8.094585194190217e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_EQ_Turn (daily)_lag_2,8.079795208620462e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_FA_Turn (daily)_lag_1,8.048595855470928e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_TSTC/TSCĐ (daily)_lag_6,8.027869218870363e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_FA_Turn (daily)_lag_3,8.022949504099937e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_P/E (daily)_lag_5,8.021074520209385e-06
+CMG_financial_data_processed_ROAA (daily)_lag_6,7.916183492333717e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_IT (daily)_lag_3,7.87065192803093e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_ST/E (daily)_ma_3_days,7.81062699196005e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_CPLV/DTT (daily)_lag_5,7.772543150550769e-06
+CMG_financial_data_processed_ROS (daily)_lag_7,7.697701819154633e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_RT (daily)_ma_7_days,7.635875528692706e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_CWIP/FA (daily)_ma_3_days,7.58129642986419e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_KTTL (daily)_lag_3,7.571774224380358e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_TSCĐ/TTS (daily)_ma_3_days,7.4881394255025985e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_P/S (daily),7.2788987018896024e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_ST/E (daily)_lag_2,7.158933867024331e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_Debt/TTS (daily)_lag_7,7.065114352898002e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_EQ_Turn (daily)_lag_7,7.03981906250616e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_TSCĐ/TTS (daily)_lag_3,6.997483412858533e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_P/E (daily)_lag_3,6.894557343977271e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_Debt/E (daily),6.879978509711268e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_GROW_LNST (daily)_ma_7_days,6.769305904252419e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_EQ_Turn (daily)_lag_7,6.695996008076724e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_EBITM (daily)_lag_3,6.691630761831188e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_ST/E (daily),6.618061845341416e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_PT (daily)_lag_6,6.5766539027105005e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_ROA (daily),6.551509794879958e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_TSVH/TSCĐ (daily)_lag_5,6.4842230834817785e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_P/B (daily)_lag_3,6.47855063549228e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_FI/TSNH (daily),6.426160542019289e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_KTTL (daily)_lag_2,6.401328465761637e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GROW_VCSH (daily)_lag_4,6.365396347002391e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_CPLV/DTT (daily),6.2980155892186245e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_KTTL (daily),6.295304320349442e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_EBDM (daily)_lag_7,6.0712661701364796e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_RT (daily)_lag_7,6.03999959381178e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_Debt/TTS (daily)_lag_5,5.911016985449292e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_DPO (daily),5.850697182241407e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_P/E (daily)_lag_4,5.847082039378773e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_NDH (daily),5.841434927627077e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_TSDLH/TTS (daily)_ma_7_days,5.83011513541401e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_GROW_LNTT (daily)_lag_4,5.807602899466476e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_GROW_LNTT (daily)_lag_5,5.750209104555203e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_EQ_Turn (daily)_lag_2,5.712392641796117e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_EPS (daily)_lag_7,5.701590690182155e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_EPS (daily)_lag_5,5.701105292940914e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_DSO (daily)_lag_2,5.613801275316361e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_RT (daily)_lag_5,5.58700734794563e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_RT (daily)_lag_6,5.566418922146441e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_GROW_LNTT (daily)_lag_2,5.422373952283538e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_TSVH/TSCĐ (daily),5.305516918908946e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_D/A (daily)_lag_3,5.304814571972615e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_CPBH/DTT (daily),5.177874612485064e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_ROS (daily)_lag_4,5.099309043808576e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_QR_ex (daily)_lag_2,4.917466949461354e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_DSO (daily)_lag_2,4.847471819126712e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_CPLV/DTT (daily)_lag_5,4.815541378335365e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_FA_Turn (daily)_lag_5,4.80487112947252e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_ROA (daily)_lag_2,4.661306416472974e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_EQ_Turn (daily)_lag_4,4.6578525067335875e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_CPBH/DTT (daily)_ma_3_days,4.550994815080165e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_GM (daily)_lag_4,4.546517845213495e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_P/B (daily)_lag_1,4.451045695610579e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_TSVH/TSCĐ (daily)_lag_3,4.412837538684092e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_GROW_LNTT (daily)_ma_3_days,4.398224984007659e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_TSNNKT/TSNH (daily)_lag_6,4.377728406171967e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_TSTC/TSCĐ (daily)_lag_1,4.332280559779062e-06
+CMG_financial_data_processed_ROEA (daily)_lag_7,4.252997999755101e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_PT (daily)_lag_5,4.187824134700312e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_EQ_Turn (daily)_lag_1,4.115143274946967e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_D/E (daily)_lag_6,4.074920046542248e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_ST/E (daily),4.026542651446913e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_ROE (daily)_lag_4,4.00454950481567e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_PT (daily)_lag_7,3.949238463966376e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_P/S (daily)_lag_2,3.8248819954778016e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_TSNNKT/TSNH (daily)_lag_5,3.8051106810861076e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_TSVH/TSCĐ (daily)_lag_3,3.767255295416111e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_TA_Turn (daily)_lag_3,3.689563081807027e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_CPQLDN/DTT (daily)_lag_5,3.5526783833275522e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_P/E (daily)_lag_7,3.547740878547567e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_EPS (daily)_ma_3_days,3.5344526739610063e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_FA_Turn (daily)_ma_7_days,3.470984029341495e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_P/E (daily)_ma_3_days,3.4079947045717727e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_EPS (daily)_lag_2,3.3259481943480356e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_ROCE (daily)_ma_7_days,3.2660496702530555e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_CPQLDN/DTT (daily)_lag_5,3.247107656692418e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_CPLV/DTT (daily)_lag_1,3.2033255374478366e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GROW_VDL (daily)_ma_7_days,3.1624316155769574e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_EBITM (daily)_lag_6,3.1399515320383273e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_CPQLDN/DTT (daily)_ma_3_days,3.136345771312754e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_P/S (daily)_lag_7,3.059572601632391e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_KTTL (daily),3.057420369767366e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_ST/TD (daily),3.0553790958423464e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_P/B (daily)_lag_7,3.034575028061039e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_ROCE (daily)_lag_6,3.0324900248302947e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GVHB/DTT (daily)_lag_5,3.032091884842834e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_EBITM (daily)_lag_7,2.997601912922036e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_Debt/TTS (daily)_lag_2,2.9692934352868465e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_EPS (daily)_lag_3,2.939523060582006e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_D/E (daily)_lag_4,2.8993867298413965e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_DSO (daily)_lag_7,2.8329160628725537e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GVHB/DTT (daily)_lag_2,2.821617301945585e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_GROW_TTS (daily)_lag_2,2.816655026608636e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_P/B (daily)_lag_4,2.741490119818012e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_PT (daily)_lag_5,2.708470665227612e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_P/B (daily),2.7069536413888067e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_Debt/TTS (daily)_ma_7_days,2.67434162770585e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_QR_ex (daily)_lag_2,2.6629015067574487e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_ROCE (daily)_lag_5,2.5980304803311373e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_GP% (daily)_lag_2,2.5946469542732397e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_EQ_Turn (daily)_lag_2,2.5934788018446523e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_CPBH/DTT (daily)_lag_5,2.588014938063283e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_CPLV/DTT (daily)_lag_6,2.5498065118145888e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_DIO (daily)_ma_7_days,2.5074423273806768e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_CWIP/FA (daily)_lag_1,2.495267620228993e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_CPLV/DTT (daily)_lag_1,2.4720822790115207e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_ROA (daily)_lag_1,2.398724510391377e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_KTTL (daily)_lag_5,2.3136294845186056e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_E/A (daily)_lag_6,2.287572884728309e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_Debt/E (daily),2.277311008507694e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_E/A (daily)_lag_2,2.2724741363839194e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_IT (daily),2.271747200027534e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_EPS (daily)_lag_3,2.2662042635596536e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_ST/E (daily)_lag_4,2.1635181838714776e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_P/S (daily)_lag_1,2.1411497940402643e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_P/B (daily)_lag_2,2.070590562814571e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_EQ_Turn (daily)_lag_7,2.0423579321111896e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_D/A (daily)_lag_5,1.994074068725305e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_DPO (daily)_lag_2,1.9360252378078616e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_E/A (daily)_lag_7,1.9150820042331577e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_TSNH/TTS (daily)_lag_4,1.909892644353221e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_D/A (daily)_lag_1,1.8962093276565041e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_GROW_LNST (daily)_lag_2,1.866592890499404e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_PTNH/TSNH (daily)_lag_5,1.8663958675691e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_CASH/TSNH (daily)_lag_3,1.8524732101738966e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_RT (daily),1.8339450985879311e-06
+CMG_financial_data_processed_ROAA (daily)_lag_7,1.8156178217748424e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_FA_Turn (daily)_lag_4,1.8065102413009872e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_QR (daily),1.7965696287456328e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_TSNNKT/TSNH (daily)_lag_7,1.69504014499956e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_ROE (daily)_lag_5,1.6168540624776778e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_GROW_VDL (daily)_lag_1,1.5695051258260272e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_D/A (daily)_lag_5,1.5451045463445593e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_CASH/TSNH (daily)_lag_3,1.535902459040868e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_P/B (daily)_lag_2,1.48808037571258e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_P/E (daily)_lag_3,1.4695976086304495e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_GROW_LNST (daily)_lag_2,1.4110911207509168e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GROW_VDL (daily)_lag_4,1.4049512343990931e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_TSNH/TTS (daily)_lag_4,1.3402467980652883e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GVHB/DTT (daily)_lag_1,1.3077446650852078e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_GROW_LNST (daily)_lag_4,1.269123812144999e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_ROA (daily)_lag_6,1.215350502854498e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_TSNH/TTS (daily)_ma_7_days,1.1879911526733912e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_TSCĐ/TTS (daily)_lag_1,1.133201006829271e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_Debt/TTS (daily)_ma_7_days,1.1080536404423225e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_GROW_LNTT (daily)_lag_3,1.0844508433243474e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_CPBH/DTT (daily)_lag_4,1.065113017552806e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_ST/E (daily)_lag_2,1.0232083304792478e-06
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_ST/TD (daily)_lag_2,8.908586585380209e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_E/A (daily)_ma_7_days,8.698587420370389e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_ROE (daily)_lag_2,8.659584862380796e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_FA_Turn (daily)_lag_6,8.60892955681596e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_Debt/TTS (daily)_lag_4,8.53170245356261e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_CPLV/DTT (daily),8.366100290142178e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GVHB/DTT (daily),8.317732713687659e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_FA_Turn (daily)_ma_3_days,7.784700303765426e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_HTK/TSNH (daily)_lag_3,7.720227597259495e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_P/B (daily)_lag_2,7.273743834327848e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_KCT_NGNH_CFF (daily)_ma_3_days,6.899286473518347e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_DSO (daily)_lag_2,6.765822442769635e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_ROCE (daily)_lag_4,6.478672716277106e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_ROCE (daily)_lag_1,6.084898647412774e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_EQ_Turn (daily)_lag_4,5.845804010786117e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_CWIP/FA (daily)_lag_2,5.756868641636505e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_FA_Turn (daily)_lag_2,5.752445557950869e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_E/A (daily)_lag_4,5.679550563153512e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_ROCE (daily)_ma_7_days,5.126537117603921e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_FA_Turn (daily)_lag_5,4.7202649128790645e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_GROW_VDL (daily)_lag_5,4.663350367349584e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_KCT_NGNH_CFO (daily),3.940188762319234e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ_Phần mềm (of FPT_CMG)_processed_ROE (daily)_lag_6,3.600429025903277e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_TSCĐ/TTS (daily)_lag_2,2.4179414443147244e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin (of FPT_CMG)_processed_CWIP/FA (daily)_lag_3,1.571198436578072e-07
+financialreport_metrics_Nhóm ngành_Công nghệ thông tin_Phần mềm và dịch vụ (of FPT_CMG)_processed_TA_Turn (daily)_ma_7_days,6.502980106836579e-08
